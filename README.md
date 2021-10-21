@@ -14,3 +14,5 @@ Tweets are pre-processed. This step normalizes, scales, and standardizes the dat
 
 The tweets were captures using Twitter's API.  The cleaning process is important.  The myTweets.csv is the output from the basic cleaning script. There is stil room to improve the cleaing process. Data cleaing is a time consuming process. The myTweets.csv is used to associate the twitter user identification with a male or female. The result is the result_data.csv and The sentiment association script vectorizes and assigns sentiment scores to the text. 
 The Gender_name_association.csv file searches for a gender match which requires a lot of resources. The memory allocation and availibility is evident with the gender/name association script. The Gender Predictive model summary offers insight into the performance of this model. The 10-fold cross-validation script creates the output comparing the performance metric for the machine learning models. 
+
+![feature selection](https://user-images.githubusercontent.com/5244413/138268397-7a5ac09a-f727-4c11-9a9f-baf602618aae.png)
