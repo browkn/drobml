@@ -17,4 +17,4 @@ The Gender_name_association.csv file searches for a gender match which requires 
 
 ![feature selection](https://user-images.githubusercontent.com/5244413/138268397-7a5ac09a-f727-4c11-9a9f-baf602618aae.png)
 
-I used a wrapper feature selection to create this graph. I had three options for feature selection. Over 50,000 Tweets in the file related to sustainability, climate change, renewable energy, gardening, and other green-related topics. The tweets ranged from 2017-01-01 07:58:15 to 2017-03-18 08:57:12. I screened the features to select the best for predicting gender. The features colored in green rank at the top group of performers.
+I used a wrapper feature (greedy search algorithm) selection to create this graph. I had three options for feature selection. Over 50,000 Tweets in the file related to sustainability, climate change, renewable energy, gardening, and other green-related topics. The tweets ranged from 2017-01-01 07:58:15 to 2017-03-18 08:57:12. I screened the features to select the best for predicting gender. The features colored in green rank at the top group of performers.
