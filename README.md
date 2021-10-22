@@ -23,3 +23,9 @@ The wordcloud is generated from 50000 Green related tweets.
 
 ![green world cloud](https://user-images.githubusercontent.com/5244413/138534045-1d5eb12e-2858-44c6-b278-9cdf63524c03.png)
 
+
+These are basic exploratory graphs and plots. The relationship between char_count and unique_words isn't out of the ordinary. However, it's worth monitoring how tweet topic, gender ratio impacts the relationship between the two features within other datasets. 
+
+
+
+![charcount_unique_words_green](https://user-images.githubusercontent.com/5244413/138534299-1e15db05-ba88-4c7b-b0b7-168009975bef.png)
