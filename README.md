@@ -46,4 +46,4 @@ The features highlighted in green are in the exploratory plots below.
 
 The tree diagram is produced with the tree library found in R. 
 
-![tree_output](https://user-images.githubusercontent.com/5244413/138540248-47d0de3e-8bcf-4489-ac31-fe6c1b558ea4.png)
+
