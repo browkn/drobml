@@ -29,3 +29,18 @@ These are basic exploratory graphs and plots. The relationship between char_coun
 
 
 ![charcount_unique_words_green](https://user-images.githubusercontent.com/5244413/138534299-1e15db05-ba88-4c7b-b0b7-168009975bef.png)
+
+
+The features highlighted in green are in the exploratory plots below.
+
+
+
+
+![anticipation_green_trust](https://user-images.githubusercontent.com/5244413/138536042-848bfc05-e52b-4cef-891e-8dfe98d86873.png)
+
+![char_count](https://user-images.githubusercontent.com/5244413/138536026-65d92684-e4fa-499d-bc7e-2678e9444f7e.png)
+
+![num_unique_words](https://user-images.githubusercontent.com/5244413/138536064-09bd1013-f653-41d8-a7c7-753903482606.png)
+
+![joy_word_count](https://user-images.githubusercontent.com/5244413/138536056-21c8ce03-5f8a-4b9b-aafb-616dc4fb81bc.png)
+
