@@ -20,8 +20,6 @@ I used a wrapper feature (greedy search algorithm) selection to create this grap
 
 
 ![garden_github_data](https://user-images.githubusercontent.com/5244413/140437201-834a4a4f-ec3d-4a5e-bff2-aed429a115ec.PNG)
-The caretEnsemble package helped select the best performer. 
-knn is the best performer with an accuracy score of 96%. 
 
 
 The wordcloud is generated from 50000 Green related tweets.
