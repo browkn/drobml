@@ -28,6 +28,8 @@ knn is the best performer with an accuracy score of 96%.
 
 
 
+![k nearest nei](https://user-images.githubusercontent.com/5244413/140444841-451cb182-3644-4678-b181-a7b33b3ad8d1.PNG)
+
 These are basic exploratory graphs and plots. The relationship between char_count and unique_words isn't out of the ordinary. However, it's worth monitoring how tweet topic, gender ratio impacts the relationship between the two features within other datasets. 
 
 
