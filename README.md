@@ -54,5 +54,5 @@ The tree diagram is produced with the tree library found in R.
 
 ![Green Tree](https://user-images.githubusercontent.com/5244413/138540293-3da66d8b-f783-4aa1-9600-578c35f4d604.png)
 
-I will reproduce the same charts with a different tweet topic.
+I will reproduce the same charts with a different tweet topic and track the model scores. 
 
