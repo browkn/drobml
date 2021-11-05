@@ -19,6 +19,9 @@ The Gender_name_association.csv file searches for a gender match which requires 
 I used a wrapper feature (greedy search algorithm) selection to create this graph. I had three options for feature selection. Over 50,000 Tweets in the file related to sustainability, climate change, renewable energy, gardening, and other green-related topics. The tweets ranged from 2017-01-01 07:58:15 to 2017-03-18 08:57:12. I screened the features to select the best for predicting gender. The features colored in green rank at the top group of performers.
 
 
+![garden_github_data](https://user-images.githubusercontent.com/5244413/140437201-834a4a4f-ec3d-4a5e-bff2-aed429a115ec.PNG)
+The caretEnsemble package helped select the best performer. knn is the best performer with an accuracy score of 96%. 
+
 
 The wordcloud is generated from 50000 Green related tweets.
 
