@@ -3,12 +3,15 @@ ML Projects And Practice
 
 Description
 =================================
-The goal of this research is to compare the algorithm's predictive performance over specified time-frames to its performance within different topics/ hashtags. For example, does the tweet topic provide a ( different measurable performance outcome ) when compared to the algorithm's predictive performance for a defined timespan? 
 
-It’s risky to depend only on sentiment analysis for business decisions. However, the influence of social sentiment impacts businesses of all sizes. Social media dynamics impact customer interest and societal issues, merchandise, stock prices, and other social media markets. In this project, the Twitter gender sentiment algorithm processes and compare tweets associated with hashtags categories related to capitalism, socialism, wellness, finance, and wine, to name a few. 
-The goal of the R algorithm is to predict gender sentiment. Twitter API data is collected. Each tweets.csv file consist of tweets scraped during various time-frames. It's risky to depend only on sentiment analysis for business decisions. However, the influence of social sentiment impacts businesses of all sizes. Social media dynamics impact customer interest and societal issues, merchandise, stock prices, and other social media markets. In this project, the Twitter gender sentiment algorithm processes and compare tweets associated with a range of hashtags categories. 
 
-Tweets are pre-processed. This step normalizes, scales, and standardizes the data. Gender sentiment is essential for targeting and managing the conversations that drive online communities. The gender sentiment algorithm provides insight for building and or managing social media campaign strategies. K-fold cross-validation is used to rank models. The evaluation metric is accuracy and kappa for the Gender Prediction algorithm. In addition, the exploratory plots offer sentiment scope and important relationships between features, gender categories, and specific families of hashtags.
+Author analysis helps to develop solutions for market analysis that take into account consumer profiles. Feedback analysis is key to the process of building consumer profiles and identifying fake reviews. We can segment customers based on preferences, tastes, and demographics with authorship analysis. Author profiling technology can also be used to resolve literary disputes, detect plagiarism, date documents, examine socioeconomic factors, and assess mental health (Nabanita, 2019).
+
+Author Attribution, Author Verification, and Author Profiling are the three primary tasks involved in Authorship Analysis, and they are all inter-related. Authorship analysis is critical for forensic analysis and crime investigations. Furthermore, social media and open web resources have fostered a wide range of cyber crimes — including fake profiles, bots creating fake reviews, plagiarism, dark web websites threats, the identification of terrorist threats, and harassment.
+
+The process of authorship analysis consists of developing a persona for an author, and then examining the articles they have authored. This is done in order to determine what their writing style is in order to distinguish them from one another. An instrumental part of the study of Linguistics is the area called stylistometry, a branch that analyses literary style using statistical techniques.
+
+ There are a number of social media dynamics that influence businesses of all sizes. Social media dynamics influence customer interest and societal issues, merchandise, stock prices, and other social media markets. This project analyses and compares tweets associated with a range of hashtag categories. 
 
 The wordcloud is generated from 50000 Green related tweets.
 ![green world cloud](https://user-images.githubusercontent.com/5244413/138534045-1d5eb12e-2858-44c6-b278-9cdf63524c03.png)
